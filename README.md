@@ -21,3 +21,14 @@ A simple ordering command line application is built to carry out the testing par
 - mockito
 - JUnitParams
 
+## Useful resources
+
+- https://junit.org/junit4/ - Learn more about JUnit4 from this website.
+- [https://site.mockito.org/](https://www.example.com) - Learn more on how to use Mockito on testing. 
+
+## Author
+
+- Yeo Kai En (Leader)
+- Elaine Low Jing Yi
+- Low Ee Lyne
+- Low Jia Wei
